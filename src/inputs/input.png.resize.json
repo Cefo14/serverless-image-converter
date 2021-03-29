@@ -1,0 +1,8 @@
+{
+  "imageURL": "https://[BUKET].s3.amazonaws.com/[KEY]",
+  "convertTo": "png",
+  "resize": {
+    "width": 100,
+    "height": 100
+  }
+}
